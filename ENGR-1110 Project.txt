@@ -1,242 +1,126 @@
-﻿Our Members:
+﻿Our-Members:
 Walter Boley, Developer and Scrum Master.
-I am a transfer student from Calhoun Community College in Huntsville. I have experience in programming through excess programming classes that were not able to transfer. I work diligently to complete tasks and enjoy programming because each program feels like a different puzzle I can solve. 
-
+I am a transfer student from Calhoun Community College in Huntsville. I have experience in programming 
+through excess programming classes that were not able to transfer. I work diligently to complete tasks 
+and enjoy programming because each program feels like a different puzzle I can solve. 
 
 Hayden Roy, Developer and Product Owner.
-I am a first-year freshman at Auburn. I have taken a few courses on programming in my free time but this is my first official class. I enjoy programming because it challenges me and this class has been a good opportunity for me to learn. I enjoy working in teams for projects and this class has given me a good opportunity to do so.
-
+I am a first-year freshman at Auburn. I have taken a few courses on programming in my free time but 
+this is my first official class. I enjoy programming because it challenges me and this class has been a
+good opportunity for me to learn. I enjoy working in teams for projects and this class has given me a 
+good opportunity to do so.
 
 Katelyn Havnaer, Developer.
-I am a first-year freshman at Auburn University. This is the first programming class I have taken, but I have been interested in learning it for several years. I enjoy the problem solving aspect of coding and working in teams.
-
+I am a first-year freshman at Auburn University. This is the first programming class I have taken, but 
+I have been interested in learning it for several years. I enjoy the problem solving aspect of coding 
+and working in teams.
 
 Chase Carithers, Developer.
-I am a first-year freshman here at Auburn. This class is my first experience with anything coding related, and it has really felt like it suits me well. I also enjoy working in teams, which I’m very glad that I’m getting to experience in this class. 
-
+I am a first-year freshman here at Auburn. This class is my first experience with anything coding 
+related, and it has really felt like it suits me well. I also enjoy working in teams, which I’m very 
+glad that I’m getting to experience in this class. 
 
 Cal Cunnion, Developer.
-I am a first-year Freshman at Auburn. I’ve had a few years experience coding in highschool which motivated me to pursue studying computer science here at Auburn. I enjoy the challenge of coding and the idea of working in a team-oriented space.
+I am a first-year Freshman at Auburn. I’ve had a few years experience coding in highschool which 
+motivated me to pursue studying computer science here at Auburn. I enjoy the challenge of coding and 
+the idea of working in a team-oriented space.
+~ ~
 
-
-
-
-Our Vision: 
-Create a program that presents statistics about access to healthcare around the world, and raise awareness for the countries that are struggling the most with their healthcare system.
-
+Our-Vision: 
+Create a program that presents statistics about access to healthcare around the world, and raise 
+awareness for the countries that are struggling the most with their healthcare system.
 
 Our Goals:
-Goal 1: Thoroughly research the topic at hand to find measurable data that can be displayed graphically and that we can use in our narrative.
+Goal 1:
+Thoroughly research the topic at hand to find measurable data that can be displayed graphically and 
+that we can use in our narrative.
 
+Goal 2:
+Create a basic program that can display the information that we acquired, and that can output our 
+narrative.
 
-Goal 2: Create a basic program that can display the information that we acquired, and that can output our narrative.
+Goal 3:
+Fully flesh out the program so that it is easy to navigate and is visually appealing.
 
+Goal 4:
+Articulate our vision by presenting our Program.
+~ ~
 
-Goal 3: Fully flesh out the program so that it is easy to navigate and is visually appealing.
+1-1. This source supports our narrative by upholding the fact that impoverished countries truly are stuck in a detrimental loop. Without the means to improve access to healthcare, citizens are unable to stay consistently fit to work towards a common goal of progress.
+2-1. This article finds a correlation between GDP and infant mortality rates.
 
+Round-# 1 Research Results:
+The World Factbook was by far the most helpful source. Under each country I was able to find numbers 
+listed under almost every category you can think of. Through this site, I was able to track down points
+that I found to be most relevant to our cause. What I discovered was an apparent correlation between 
+childcare effectiveness, GDP, and access to healthcare (which I quantified through physicians and 
+hospital beds per 1,000 people). These countries that rank lowest in access to healthcare are stuck in 
+a sort of vicious cycle. Both their high infant mortality rate which limits their future generations 
+and greatly lowers morale within the struggling populace, and their almost complete lack of funding for
+any sort of medical infrastructure keep them tied down.
 
-Goal 4: Articulate our vision using our program in a presentation.
+Round-# 2 Research Results:
+So far, I was able to find two articles from credible sources that support our cause. I was able to 
+locate and cite these articles accurately through the use of Google Scholar. The first touches on the 
+fact that countries with low GDPs continue to stay in unfortunate situations through their inability to
+construct sufficient medical infrastructure. The second almost directly supports our topic by bringing 
+up the relationship between GDP and infant mortality.
 
+Citations:
+1. Raghupathi, Viju, and Wullianallur Raghupathi. "Healthcare expenditure and economic performance: 
+insights from the United States data." Frontiers in public health 8 (2020): 156. 
+https://www.frontiersin.org/articles/10.3389/fpubh.2020.00156/full 
 
+2. Abuqamar, Mazen, Danny Coomans, and Fred Louckx. "Correlation between socioeconomic differences and 
+infant mortality in the Arab World (1990-2009)." International Journal of Sociology and Anthropology 
+3.1 (2011): 15. 
+https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4ab337dc70858c7671e1c1952ac438f6d5dd36db
 
-
-Mathematical Data:
-1. Childcare Effectiveness (Infant mortality rate per 1,000 live births):
-   1. Afghanistan - 103.06
-   2. Somalia - 85.06
-   3. Central African Republic - 81.74
-   4. Equatorial Guinea - 77.85
-   5. Sierra Leone - 72.3
-   6. Niger- 65.53
-   7. Chad- 63.99
-   8. South Sudan- 61.63
-   9. Mozambique- 59.77
-   10. Congo- 59.12
-   11. Mali- 58.99
-   12. Guinea-Bissau- 47.69
-2. Economic Standing (GDP in billions of USD):
-   1. Afghanistan - 14.58 
-   2. Somalia - 8.13 
-   3. Central African Republic - 2.38
-   4. Equatorial Guinea - 11.81
-   5. Sierra Leone - 3.97
-   6. Niger- 13.97
-   7. Chad- 12.7
-   8. South Sudan- 12
-   9. Mozambique- 17.85
-   10. Congo (Democratic Republic)- 58.07
-   11. Mali- 18.83
-   12. Guinea-Bissau- 1.63
-3. Physician/Hospital Bed Density (per 1,000 people)
-   1. Afghanistan - 0.25/0.4
-   2. Somalia - 0.02/0.9
-   3. Central African Republic - 0.07/1
-   4. Equatorial Guinea - 0.4/N/A
-   5. Sierra Leone - 0.07/N/A
-   6. Niger- 0.04/0.4
-   7. Chad- 0.06/N/A
-   8. South Sudan- N/A
-   9. Mozambique- 0.09/0.7
-   10. Congo- 0.38/N/A
-   11. Mali- 0.13/0.1
-   12. Guinea-Bissau- 0.2/N/A
-
-Round-# 1 Research Results: The World Factbook was by far the most helpful source. Under each country I was able to find numbers listed under almost every category you can think of. Through this site, I was able to track down points that I found to be most relevant to our cause. What I discovered was an apparent correlation between childcare effectiveness, GDP, and access to healthcare (which I quantified through physicians and hospital beds per 1,000 people). These countries that rank lowest in access to healthcare are stuck in a sort of vicious cycle. Both their high infant mortality rate which limits their future generations and greatly lowers morale within the struggling populace, and their almost complete lack of funding for any sort of medical infrastructure keep them tied down.
-1. Raghupathi, Viju, and Wullianallur Raghupathi. "Healthcare expenditure and economic performance: insights from the United States data." Frontiers in public health 8 (2020): 156. https://www.frontiersin.org/articles/10.3389/fpubh.2020.00156/full 
-   1. This source supports our narrative by upholding the fact that impoverished countries truly are stuck in a detrimental loop. Without the means to improve access to healthcare, citizens are unable to stay consistently fit to work towards a common goal of progress.
-2. Abuqamar, Mazen, Danny Coomans, and Fred Louckx. "Correlation between socioeconomic differences and infant mortality in the Arab World (1990-2009)." International Journal of Sociology and Anthropology 3.1 (2011): 15. https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4ab337dc70858c7671e1c1952ac438f6d5dd36db 
-   1. This article finds a correlation between GDP and infant mortality rates.
-
-Round-# 2 Research Results: So far, I was able to find two articles from credible sources that support our cause. I was able to locate and cite these articles accurately through the use of Google Scholar. The first touches on the fact that countries with low GDPs continue to stay in unfortunate situations through their inability to construct sufficient medical infrastructure. The second almost directly supports our topic by bringing up the relationship between GDP and infant mortality.
 https://data.worldbank.org/ 
 https://www.cia.gov/the-world-factbook 
-
-Code:
-Printing text Document code
-# -*- coding: utf-8 -*-
-
-
-'''
-This portion of code is for printing out research acquisition records.
-Current iteration of this method will print out specifically the research collection paragraph
-During this iteration there was only Round-1-Research Results available.
-Further coding will be necessary as we create more rounds of research
-'''
-def printResearch(fileName):
-    #Change the document into something printable by reading it line by line
-    y = fileName.readlines()
-
-
-    #This variable can help us figure out when to stop trying to print
-    keepPrinting = False
-
-
-    #loop through the entire document line by line
-    for x in y:
-        #If the only character in the line is a newline character skip it
-        #Otherwise the program will throw an error when it tries to compare it
-        if (len(x) == 1 and not(keepPrinting)):
-            #Using continue will skip past the liens that would cause errors,
-            #While allowing the loop to continue to run
-            continue
-        #If keepPrinting is true but the current line is empty set keep printing to false
-        #This will give us a stop point for printing when we find an empty line
-        elif (keepPrinting and (x == "\n")):
-            keepPrinting = False
-            continue
-
-
-        #Split the line into seperate string to make it easier to compare
-        #print(x)
-        h = x.split()
-
-        #This if statement will check the first string in a line of text
-        #This is me testing to see if I can find a specific word and start printing the fiel at that word
-        if(h[0]=="Round-1-Research"):
-            keepPrinting = True
-
-        #this if will only print out the read line when I am ready to print
-        if(keepPrinting):
-            print(x)
-
-'''THIS IS THE MAIN METHOD'''
-
-
-#open the text file that needs to be read
-#utf-8-sig removes a strange set of characters that I found while printing the document
-f = open("ENGR-1110 Project.txt", "r", encoding="utf-8-sig") 
-printResearch(f)
+~ ~
 
 
 
 
-Code for graphs: (Using matplotlib and numpy for graphing as I couldn’t port matlab into python)
-If yall want me to change the colors or anything let me know and I can.
 
 
-Graph 1:
-import matplotlib.pyplot as plt
-import numpy as np
+Narrative:
+During our time spent on this project, we have been able to make many significant findings concerning 
+more disadvantaged areas in the world. We have researched extensively in order to procure the necessary
+information to support our point. Through our research, we were able to glean an abundance of knowledge
+on the top 12 countries with the lowest access to healthcare. With this, we managed to create 
+visualizations by employing MatLab, Numpy, and Python.
+Our project’s main aim is to quantify and visualize healthcare information so that we can raise 
+awareness for disadvantaged countries. The first graph that we made illustrates the infant mortality 
+rate of each of the countries. This metric is a good indicator of a place’s accessibility to 
+healthcare, and demonstrates how insufficient medical infrastructure not only affects the adult 
+population, but the infant population as well. Mazen Abuqamar, Danny Coomans, and Fred Louckx in their 
+research paper for Vrije Universiteit Brussel found that “...infant mortality rate (IMR) is one of the 
+most important indicators of the socioeconomic and of the health status of a community….” Infant 
+mortality in each of these places, especially in the top 5, is excessively high compared to the rest of
+the world. Because IMR is the best standard to measure by, we based the rest of the graphs off of the 
+rankings from this one.
 
+The second graph presents our studied countries’ respective GDPs. A sub-goal of the project was to find
+a relationship between the countries’ access to healthcare and their GDP. While there was not a direct 
+correlation between the two, all of the countries that we researched had generally low GDPs, ranking 
+among the lowest in the world. As suggested by studies from the Bureaus of Economic Analysis and Labor 
+Statistics collected by Viju and Wullianallur Raghupathi, there are “results [that] strongly suggest a 
+positive correlation between healthcare expenditure and…GDP….”This illustrates an issue that is 
+prevalent in these regions, which is that they do not have the means to improve themselves. With a poor
+economy, funds are stretched thin across the country’s many different needs.
 
-# Country names and corresponding infant mortality rates
-countries = [
-    "Afghanistan",
-    "Somalia",
-    "Central African Republic",
-    "Equatorial Guinea",
-    "Sierra Leone",
-    "Niger",
-    "Chad",
-    "South Sudan",
-    "Mozambique",
-    "Congo",
-    "Mali",
-    "Guinea-Bissau"
-]
+The third and final graph we created consisted of the physician and hospital bed density per 1,000 
+people. This was the second best quantifier of healthcare that we could find for our purposes. There is
+an evident relationship between the three different measurements that we have graphed. The incredibly 
+high infant mortality rate is in part caused by the exceedingly insufficient number of physicians in 
+the country. Those two are both tied in by the GDPs of the respective places.
 
-
-infant_mortality_rates = [
-    103.06,
-    85.06,
-    81.74,
-    77.85,
-    72.3,
-    65.53,
-    63.99,
-    61.63,
-    59.77,
-    59.12,
-    58.99,
-    47.69
-]
-
-
-# Create a bar chart
-plt.figure(figsize=(16, 6))
-plt.barh(countries, infant_mortality_rates, color='skyblue')
-plt.xlabel('Infant Mortality Rate per 1,000 Live Births')
-plt.title('Childcare Effectiveness by Country')
-plt.gca().invert_yaxis()  # Invert the y-axis to display the highest rate at the top
-
-
-# Display the plot
-plt.show()
-
-
-import numpy as np 
-import matplotlib.pyplot as plt 
-
-# Data 
-countries = ["Afghanistan", "Somalia", "Central African Republic", "Equatorial Guinea", 
-                 "Sierra Leone", "Niger", "Chad", "South Sudan", "Mozambique", 
-                 "Congo", "Mali", "Guinea-Bissau"] 
-
-economic_standing = np.array([14.58, 8.13, 2.38, 11.81, 3.97, 13.97, 12.7, 12, 17.85, 58.07, 18.83, 1.63]) 
-physician_density = np.array([0.25, 0.02, 0.07, 0.4, 0.07, 0.04, 0.06, np.nan, 0.09, 0.38, 0.13, 0.2]) 
-hospital_bed_density = np.array([0.4, 0.9, 1, np.nan, np.nan, 0.4, np.nan, np.nan, 0.7, np.nan, 0.1, np.nan]) 
-
-
-# Plot Economic Standing 
-plt.figure(figsize=(10, 6)) 
-plt.bar(countries, economic_standing, color='lightgreen') 
-plt.xlabel('Countries') 
-plt.ylabel('Economic Standing (GDP in billions of USD)') 
-plt.xticks(rotation=90) 
-plt.title('Economic Standing') 
-plt.tight_layout() 
-plt.show() 
-
-# Plot Physician Density and Hospital Bed Density 
-plt.figure(figsize=(10, 6)) 
-x = np.arange(len(countries)) 
-width = 0.35 
-plt.bar(x - width/2, physician_density, width, label='Physician Density') 
-plt.bar(x + width/2, hospital_bed_density, width, label='Hospital Bed Density') 
-plt.xlabel('Countries') 
-plt.ylabel('Density (per 1,000 people)') 
-plt.xticks(x, countries, rotation=90) 
-plt.legend() 
-plt.title('Physician and Hospital Bed Density') 
-plt.tight_layout() 
-plt.show()
+Through this project, we intended to bring attention to parts of the world that seem to be struggling 
+in terms of healthcare. We also presented the relationship between healthcare and a low GDP, which are 
+two problems that need to be tackled simultaneously. None of these people deserve to live in the manner
+that they are forced to, and it is important to be aware of the fact that this occurs. The more people 
+that are knowledgeable on this topic makes it all the more likely that these issues will be solved for 
+future generations.
+~ ~
